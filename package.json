@@ -1,0 +1,23 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "prueba en grupo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open" : "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebastianspataris/Prueba.git"
+  },
+  "author": "sebastian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sebastianspataris/Prueba/issues"
+  },
+  "homepage": "https://github.com/Sebastianspataris/Prueba#readme",
+  "devDependencies": {
+    "cypress": "^13.2.0"
+  }
+}
