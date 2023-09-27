@@ -1,6 +1,6 @@
 # Prueba
 ---prueba en grupo de sebastian spataris y diego lopez---
-
+------------------------------------------------------------------------------------------
 -Se instalo cypress correctamente y se hizo un pull.
 -Se configuro cypress para visitar la pagina http://zero.webappsecurity.com/ correctamente.
 -Se realizo una prueba para verificar que el titulo de la pagia sea correcto al visitarla y resulto exitosa la prueba realizada.
@@ -11,3 +11,8 @@
 -------------------------------------------------------------------------------------------
 -Se realizaron pruebas en los distintos menus y submenus de la pagina, no aparecieron problemas en esta prueba, cada menu y submenu se desplego correctamente ,las pruebas resultaron exitosas.
 -Se realizaron pruebas de funcionalidad en los enlaces, tales como rellenar los campos de las casillas y pruebas de todas las pestañas de forma correcta, las pruebas resultaron exitosas.
+-------------------------------------------------------------------------------------------
+-Se realizaron pruebas a los formularios de toda la pagina verificando que carguen correctamente al interactuar con ellos, las pruebas resultaron exitosas.
+-------------------------------------------------------------------------------------------
+-Se realizo la prueba en los formularios comprobando que impidieran que no se ejecutaran vacios, las pruebas realizadas tuvieron exito
+-se probaron las imagenes en la pagina principal existan y sean visibles, las pruebas resultaron exitosas.
