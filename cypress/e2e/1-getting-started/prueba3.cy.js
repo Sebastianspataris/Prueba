@@ -23,7 +23,7 @@ describe('Suite de Pruebas', () => {
   });
 
 
-  it('05.- Validar funcionalidad de interaccion enlaces otras paginas', () => {
+  it('05.- Validar funcionalidad de formulario transferir', () => {
     cy.get('#signin_button').click(); //clic en singin
     cy.get('#user_login').type("username"); //introduce usuario
     cy.get('#user_password').type("password"); // introduce contraseña
@@ -33,7 +33,8 @@ describe('Suite de Pruebas', () => {
     cy.get('#tf_description').type("hola");
     cy.get('#btn_submit').click();
     cy.get('#btn_submit').click();
-    it('05.- Validar funcionalidad de interaccion enlaces otras paginas', () => {
+
+    it('05.- Validar funcionalidad de formulario transferir boton cancelar ', () => {
       cy.get('#signin_button').click(); //clic en singin
       cy.get('#user_login').type("username"); //introduce usuario
       cy.get('#user_password').type("password"); // introduce contraseña
